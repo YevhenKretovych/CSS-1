@@ -7,7 +7,7 @@
 }
 
 h1 {
-  color: blue;
+  background: blue;
 }
 
 .green {
@@ -19,7 +19,7 @@ h1 {
 }
 
 .box p {
-  color: red;
+  background: red;
 }
 
 .box div {
